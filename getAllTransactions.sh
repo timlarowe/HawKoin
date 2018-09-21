@@ -1,0 +1,1 @@
+curl -X GET --header 'Accept: application/json' 'http://localhost:3000/api/org.hawkoin.network.TransferFunds'
